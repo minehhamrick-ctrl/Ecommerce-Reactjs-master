@@ -1,6 +1,5 @@
 # Full stack ecommerce online store application
 
-#### back-end code [click here](https://github.com/levelopers/Ecommerce-Nodejs)
 
 ## General Info 
 
